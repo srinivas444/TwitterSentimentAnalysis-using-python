@@ -1,0 +1,9 @@
+{
+	"consumer_key":        "YXergKi6rgoiS3LCMlhQcGE9y",
+	"consumer_secret":     "d82TtA2PdEZ69qj2yIYX6TDBMEA5KXEql8JGc84EHiSU0hLvpn",
+	"access_token":        "894027007-W8F3QzWx6nsIxckHV3rYc4fU9tPqMFNRF5wKgXmB",
+	"access_token_secret": "aWtOkExLI7vLUFcNzz9mOSgyBKDfA0Q6IepnTWyRIYqlr",
+	"file_name": "tweet.csv",
+	"count": 300,
+	"filter": "obama"
+}
